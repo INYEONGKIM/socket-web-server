@@ -1,4 +1,5 @@
 Compile:
+	make
 	gcc server.c -o server
 
 Execute:
